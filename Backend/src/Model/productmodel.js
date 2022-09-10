@@ -1,5 +1,5 @@
 const mongoose =require("mongoose");
-mongoose.connect("mongodb+srv://admin:user123@project1.cfkyt.mongodb.net/datata?retryWrites=true&w=majority")
+mongoose.connect("mongodb://localhost:27017/olx")
 
 const Schema = mongoose.Schema;
 
