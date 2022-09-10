@@ -1,0 +1,13 @@
+.homebody{
+    min-height: 100vh;
+    background-color: rgba(173, 216, 230, 0.871);
+}
+.forms234{
+    border: 2px solid rgba(255, 255, 255, 0.468);
+    padding: 40px;
+    width: 380px;
+    margin-top: 10vh;
+    background-color: rgba(255, 255, 255, 0.349);
+    margin-bottom: 10vh;
+    border-radius: 8px;
+}

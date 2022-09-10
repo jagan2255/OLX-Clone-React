@@ -1,0 +1,37 @@
+.nav22{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid grey;
+
+}
+.qwerty:hover{
+     cursor: pointer;
+     color: rgba(14, 14, 98, 0.494);
+}
+@media only screen and (max-width: 800px) {
+    .qwerty {
+     overflow: hidden;
+      width: 50px;
+      height: 30px;
+      text-overflow: ellipsis;
+    }
+  }
+
+.banner{
+    background-image: url('../../public/Screenshot\ \(206\).png');
+    min-height: 140px;
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    background-size: 100% 100%;
+    /* background-position:210px; */
+
+
+}
+
+.banner2{
+    background-image: url('../../public/Screenshot\ \(207\).png');
+    min-height: 190px;
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    background-size: 100% 100%;
+
+}
